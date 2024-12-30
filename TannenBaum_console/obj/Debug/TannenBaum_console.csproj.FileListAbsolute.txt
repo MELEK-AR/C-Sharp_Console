@@ -1,0 +1,7 @@
+C:\Users\admin\C-Sharp\TannenBaum_console\bin\Debug\TannenBaum_console.exe.config
+C:\Users\admin\C-Sharp\TannenBaum_console\bin\Debug\TannenBaum_console.exe
+C:\Users\admin\C-Sharp\TannenBaum_console\bin\Debug\TannenBaum_console.pdb
+C:\Users\admin\C-Sharp\TannenBaum_console\obj\Debug\TannenBaum_console.csproj.AssemblyReference.cache
+C:\Users\admin\C-Sharp\TannenBaum_console\obj\Debug\TannenBaum_console.csproj.CoreCompileInputs.cache
+C:\Users\admin\C-Sharp\TannenBaum_console\obj\Debug\TannenBaum_console.exe
+C:\Users\admin\C-Sharp\TannenBaum_console\obj\Debug\TannenBaum_console.pdb
